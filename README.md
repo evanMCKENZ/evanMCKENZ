@@ -1,7 +1,7 @@
-- Hi, I’m @evanMCKENZ, a fourth year Computer Engineering student at Michigan Technological University.
-- I specialize in Process Automation and Software Development, with an interest in Machine Learning industrial applications. 
-- I’m currently learning Networking, Computer Systems Engineering and Performance, and am a part of the Britten Self-Contained Water Filtration Design team.
-- I can be reached at my email -> ecmckenz@mtu.edu
+- Hi, I’m @evanMCKENZ, a Software Developer working at Industrial Magnetics, Inc. in Boyne City, Michigan.
+- I am a graduate of Michigan Technological University in Houghton, Michigan, where I specialized in Process Automation and Industrial Applications. 
+- I can be reached at my email -> evancmckenz@gmail.com
+- I can also be found on LinkedIn -> https://www.linkedin.com/in/evan-mckenzie-ba8092218/
 - Outside of work, my hobbies include analog/film photography, hiking and backpacking, fishing, computer repair, and golf.
 
 <!---
